@@ -1,0 +1,33 @@
+body {
+  background: rgb(22, 46, 8);
+}
+
+h2 {
+  color: rgb(143, 70, 22);
+  text-align: center;
+}
+p {
+  color: rgb(245, 13, 13);
+  text-align: center;
+}
+h1 {
+  color: rgb(224, 233, 107);
+  text-align: center;
+  font-weight: bold;
+}
+li {
+  color: rgb(165, 91, 42);
+}
+img {
+  align-content: center;
+}
+button {
+  background: red;
+  text-align: center;
+}
+em {
+  color: blueviolet;
+}
+div {
+  align-content: center;
+}
